@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
-  "description": "Example token for Solana Foundation Bootcamp.",
-  "image": "https://raw.githubusercontent.com/mikemaccana/token-command-line/main/lights.png"
+  "name": "Mintyne",
+  "symbol": "MINTYN",
+  "description": "Blockchain based Education hub",
+  "image": "https://raw.githubusercontent.com/yasir23/docs/main/lofo.png"
 }
